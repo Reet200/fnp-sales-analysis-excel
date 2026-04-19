@@ -1,5 +1,12 @@
 # fnp-sales-analysis-excel
 Breaking down gifting business sales data to understand what actually drives revenue — beyond just dashboards.
+## Data Processing & Analysis
+
+- Cleaned raw datasets (handled missing values, formatting)
+- Combined multiple datasets (customers, orders, products)
+- Created calculated metrics (revenue, order value, delivery time)
+- Used Pivot Tables to aggregate and analyze data
+- Built an interactive dashboard using charts and filters
 # FNP Sales Analysis (Excel Dashboard Project)
 
 ## Overview
